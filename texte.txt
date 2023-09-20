@@ -20,3 +20,8 @@ il est 20h56 je viens de terminer de manger :)
 @YosrTaieb Sorry, j'avais pas capté que c'était par rapport à Aude lol, elle a sû me débloquer en partie pour certaines questions mais elle a pas eu le temps de me débloquer sur tout.
 @Safaebn3 Oui je rejoins Yosr, c'est pour quand (on a pas le temps à perdre)?
 ---> réponse à 21:11 précise et je vais casser ce mac il m'enerve j'ai changer mon clavier et j regrette grrrrr
+
+
+21:16 --> c'est quand même un peu galère.. les profs ne sont pas super disponibles j'espère que ça ira avec Aurélien.. pcq il a tendance à répondre à coté de la plaque lol
+Sinon à part ça j'étais en train de me dire que si quelqu'un tombe sur le repo de Safae il va rien comprendre hahhaha..
+Bon prochain exo il va falloir faire des push en mêmes temps pour voir comment gérer les conflits 😖
